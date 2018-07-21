@@ -1,6 +1,6 @@
 # WorkingWithStreams
 
-Solved the below 2 problem statements using Streams:
+Solved the below 3 problem statements using Streams:
 
 1)**Given a list of numbers and a number k, return whether any two numbers from the list add up to k.**
 
