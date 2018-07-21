@@ -28,3 +28,10 @@ Solved the below 2 problem statements using Streams:
 `Pairs with maximum sum = {2, 3} and {2, 3} = 2.`
 
 `Probability = 2/6 = 0.3333`
+
+3)**Given an array of integers,**
+**Return a new array such that each element at index i of the new array is the product of all the numbers in the original array except the one at i.**
+
+`For example, if our input was [1, 2, 3, 4, 5], the expected output would be [120, 60, 40, 30, 24]. If our input was [3, 2, 1], the expected output would be [2, 3, 6].`
+
+**Note:The above can be implemented easily without division but the approach shown here has been done without the use of division**
